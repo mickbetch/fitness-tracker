@@ -1,0 +1,56 @@
+<section class="signup">
+  <h1>{{'signup.title' | translate}}</h1>
+  <form fxLayout="column" fxLayoutAlign="center center" fxLayoutGap="10px" #form="ngForm" (ngSubmit)="onSubmit(form)">
+    <mat-form-field>
+      <input
+          matInput
+          placeholder="Your email"
+          ngModel
+          type="email"
+          name="email"
+          email
+          required
+          #emailInput="ngModel"
+          pattern="[a-z0-9A-Z_]+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}">
+      <mat-icon matSuffix color="primary">email</mat-icon>
+      <mat-error *ngIf="emailInput.hasError('required')">Field must not be empty</mat-error>
+      <mat-error *ngIf="emailInput.hasError('pattern')">E-mail should be like this one <b>joe@mail.ru</b></mat-error>
+    </mat-form-field>
+
+    <mat-form-field hintLabel="Should be at least 6 characters at least">
+      <input
+          matInput
+          type="password"
+          placeholder="Your password"
+          ngModel
+          name="password"
+          required
+          minlength="6"
+          #pwInput="ngModel">
+      <mat-icon matSuffix color="primary">lock</mat-icon>
+      <mat-hint align="end">{{pwInput.value?.length}} / 6</mat-hint>
+      <mat-error *ngIf="pwInput.hasError('required')">Field must not be empty</mat-error>
+      <mat-error *ngIf="pwInput.hasError('minlength')">have to be at least 6 characters at least</mat-error>
+      <mat-error></mat-error>
+    </mat-form-field>
+
+    <mat-form-field>
+      <input
+          matInput
+          [matDatepicker]="birthdate"
+          placeholder="Your birthday"
+          [min]="minDate"
+          required
+          name="datePicker"
+          [value]="date.value"
+          [matDatepickerFilter]="myFilter">
+      <mat-datepicker-toggle [for]="birthdate" matSuffix></mat-datepicker-toggle>
+      <mat-datepicker #birthdate touchUi  color="primary"></mat-datepicker>
+    </mat-form-field>
+
+    <mat-checkbox ngModel name="agree" color="primary" required>{{ 'signup.agree' | translate }}</mat-checkbox>
+
+    <button *ngIf="!(isLoading$ | async)" [disabled]="form.invalid" type="submit" mat-raised-button color="primary">{{ 'signup.submit' | translate }}</button>
+    <mat-spinner *ngIf="isLoading$ | async"></mat-spinner>
+  </form>
+</section>

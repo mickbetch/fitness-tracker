@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efbd052b-e43e-4a77-98cd-52956ebf7f94" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-147571939">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.87" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.open.time.96" value="1" />
+          <entry key="project.opened" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="7" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="120" />
+          <entry key="js" value="1" />
+          <entry key="json" value="8" />
+          <entry key="scss" value="48" />
+          <entry key="ts" value="294" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="7" />
+          <entry key="HTML" value="120" />
+          <entry key="JSON" value="7" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="SCSS" value="48" />
+          <entry key="TypeScript" value="294" />
+          <entry key="tsconfig" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="12" />
+          <entry key="TypeScriptServerServiceImpl" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="8633" />
+          <entry key="json" value="81" />
+          <entry key="scss" value="2349" />
+          <entry key="ts" value="20108" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="8673" />
+          <entry key="JSON" value="81" />
+          <entry key="SCSS" value="2349" />
+          <entry key="TypeScript" value="20068" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/current-training/current-training.component.html" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/current-training/stop-training.component.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/user.model.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/auth-data.model.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/navigation/sidenav-list/sidenav-list.component.scss" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/exercise.model.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/training.component.html" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/current-training/current-training.component.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/signup/signup.component.scss" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/assets/i18n/en.json" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/past-training/past-training.component.html" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/material.module.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/shared/ui.service.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/new-training/new-training.component.html" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/new-training/new-training.component.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/past-training/past-training.component.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/training.component.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/shared/shared.module.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/auth.module.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/auth-routing.module.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/training-routing.module.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/signup/signup.component.html" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/shared/ui.actions.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/shared/ui.reducer.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/login/login.component.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/signup/signup.component.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/login/login.component.html" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/auth.actions.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/auth.reducer.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/app.reducer.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/auth.service.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/navigation/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/navigation/sidenav-list/sidenav-list.component.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/navigation/sidenav-list/sidenav-list.component.html" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/navigation/header/header.component.html" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/auth/auth.guard.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/raining.actions.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/training.actions.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/training.module.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/training.reducer.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/training/training.service.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/styles.scss" />
+        <option value="$PROJECT_DIR$/fitness-tracker/angular.json" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/my-theme.scss" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/environments/environment.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/environments/environment.prod.ts" />
+        <option value="$PROJECT_DIR$/fitness-tracker/src/app/navigation/header/header.component.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/fitness-tracker/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/fitness-tracker/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="material" type="b2602c69:ProjectViewProjectNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="material" type="b2602c69:ProjectViewProjectNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="fitness-tracker" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/LoftChain/mitoshi" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/fitness-tracker/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efbd052b-e43e-4a77-98cd-52956ebf7f94" name="Default Changelist" comment="" />
+      <created>1544101320408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544101320408</updated>
+      <workItem from="1544101322325" duration="599000" />
+      <workItem from="1544181489926" duration="5725000" />
+      <workItem from="1544277981143" duration="13479000" />
+      <workItem from="1544339697433" duration="19279000" />
+      <workItem from="1544418876234" duration="7975000" />
+      <workItem from="1544452186745" duration="3314000" />
+      <workItem from="1544510983243" duration="526000" />
+      <workItem from="1544542193571" duration="3544000" />
+      <workItem from="1544597538168" duration="404000" />
+      <workItem from="1544598010411" duration="1712000" />
+      <workItem from="1544616494402" duration="14221000" />
+      <workItem from="1544683842980" duration="1074000" />
+      <workItem from="1544689974136" duration="7425000" />
+      <workItem from="1544706603539" duration="3692000" />
+      <workItem from="1544715252924" duration="868000" />
+      <workItem from="1544778158029" duration="3332000" />
+      <workItem from="1544784329719" duration="8128000" />
+      <workItem from="1544946854787" duration="15078000" />
+      <workItem from="1545024109047" duration="3516000" />
+      <workItem from="1545036654381" duration="7935000" />
+      <workItem from="1545111053687" duration="4147000" />
+      <workItem from="1545198592361" duration="7291000" />
+      <workItem from="1545220009276" duration="1991000" />
+      <workItem from="1545225681033" duration="1727000" />
+      <workItem from="1545283357473" duration="2470000" />
+      <workItem from="1545320160131" duration="2714000" />
+      <workItem from="1545369951331" duration="11099000" />
+      <workItem from="1545637149711" duration="17569000" />
+      <workItem from="1545717328942" duration="11792000" />
+      <workItem from="1545803919988" duration="16554000" />
+      <workItem from="1546957025485" duration="2490000" />
+      <workItem from="1546959713011" duration="219000" />
+      <workItem from="1547107725970" duration="6480000" />
+      <workItem from="1548055439622" duration="67000" />
+      <workItem from="1548859840877" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="209186000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2745946" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49513513" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5048649" side_tool="true" weight="0.5275862" />
+      <window_info anchor="bottom" id="TypeScript" order="12" sideWeight="0.4978678" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32955772" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18230277" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49573562" visible="true" weight="0.2570499" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5042644" side_tool="true" weight="0.3329718" />
+      <window_info anchor="bottom" id="TypeScript" order="12" sideWeight="0.4978678" weight="0.29718006" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa6252.47873/optimizations-05-finished/src/app/shared/shared.module.ts" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa6252.32271/optimizations-05-finished/src/app/training/training.module.ts" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa6252.8405/optimizations-05-finished/src/app/shared/shared.module.ts" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa5732.32529/optimizations-04-shared-module/src/app/training/training.module.ts" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa5732.39333/optimizations-04-shared-module/src/app/shared/shared.module.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/shared/shared.module.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/auth/auth.module.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/auth/auth-routing.module.ts" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa16076.3590/optimizations-05-finished/src/app/training/training-routing.module.ts" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa16076.5811/optimizations-05-finished/src/app/training/training.module.ts" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa16076.7394/optimizations-05-finished/src/app/app-routing.module.ts" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa16076.14268/optimizations-05-finished/src/app/training/training-routing.module.ts" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa16076.19377/optimizations-05-finished/src/app/training/training.module.ts" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa16076.21387/optimizations-05-finished/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/training/training-routing.module.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/shared/ui.service.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/auth/signup/signup.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/auth/signup/signup.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/auth/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="10" column="105" selection-start-line="10" selection-start-column="105" selection-end-line="10" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/auth/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="25" column="63" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/shared/ui.reducer.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/shared/ui.actions.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/app.reducer.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/navigation/sidenav-list/sidenav-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/auth/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/auth/auth.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/auth/auth.actions.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/auth/auth.reducer.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/training/training.actions.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/training/training.module.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/training/training.reducer.ts" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/dist/index.html" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/dist/fitness-tracker/index.html" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/my-theme.scss" />
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/training/training.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="892">
+          <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="100" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/environments/environment.prod.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/environments/environment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="79" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="10" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/material.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/navigation/header/header.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/navigation/sidenav-list/sidenav-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/navigation/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/src/app/navigation/header/header.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness-tracker/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+.signup {
+  text-align: center;
+}
+
+mat-form-field {
+  width: 550px;
+
+  @media (max-width: 767px) {
+    width: 300px;
+  }
+}

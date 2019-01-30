@@ -1,0 +1,26 @@
+.nav {
+  &__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  &__item {
+    &--active {
+      color: #faf400;
+    }
+  }
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:hover {
+  color: lightgray;
+}
+
+.activeRouteLink {
+
+}
